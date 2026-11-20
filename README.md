@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hallo, ich bin Georgii 👋
 
-<!--
-**satell1tezero/satell1tezero** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Student der Computer Engineering an der **RWTH Aachen** (B.Sc.).
+Mich interessieren Mikrocontroller, Embedded-Systeme und die Software dahinter.
 
-Here are some ideas to get you started:
+### 🔧 Tech-Stack
+- **Programmierung:** C++ (OOP), Python, SQL (Grundlagen), Assembler (Grundlagen)
+- **Embedded & Hardware:** Mikrocontroller (STM32), Sensorik, Digitaltechnik
+- **Tools:** Git, Linux / Bash
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🌍 Sprachen
+Deutsch (C1) · Englisch (B2) · Russisch (Muttersprache)
+
+### 📫 Kontakt
+georgii.gridasov@rwth-aachen.de
