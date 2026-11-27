@@ -9,7 +9,7 @@ Mich interessieren Mikrocontroller, Embedded-Systeme und die Software dahinter.
 - **Tools:** Git, Linux / Bash
 
 ### 🌍 Sprachen
-Deutsch (C1) · Englisch (B2) · Russisch (Muttersprache)
+Deutsch (C1) · Englisch (B2) · Russisch (C2)
 
 ### 📫 Kontakt
 georgii.gridasov@rwth-aachen.de
